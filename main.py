@@ -1,1 +1,1 @@
-print("World is ")
+print("World ")
